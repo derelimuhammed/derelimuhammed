@@ -15,3 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derelimuhammed&show_icons=true&locale=en" alt="derelimuhammed" /></p>
 
+![snake gif](https://github.com/derelimuhammed/derelimuhammed/blob/output/github-contribution-grid-snake.gif)
