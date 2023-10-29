@@ -14,4 +14,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=derelimuhammed&show_icons=true&locale=en&layout=compact" alt="derelimuhammed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derelimuhammed&show_icons=true&locale=en" alt="derelimuhammed" /></p>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/derelimuhammed/derelimuhammed/blob/output/github-contribution-grid-snake.gif)
